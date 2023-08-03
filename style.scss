@@ -1,0 +1,45 @@
+@import "bootstrap-overite";
+
+.img-account {
+  width: 60px;
+  border-radius: 50%;
+}
+.hero {
+  background-color: #7550fe;
+}
+main {
+  section {
+    height: 100px;
+    border-bottom: 1px solid gray;
+    .bg-img {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-color: #ffeeda;
+      img {
+        width: 20px;
+      }
+    }
+  }
+}
+
+.descript {
+  border-bottom: 1px solid gray;
+}
+.card-body {
+  border-bottom: 1px solid gray;
+}
+.footer-card {
+  img {
+    width: 30px;
+    border-radius: 50%;
+  }
+}
+footer {
+  ul {
+    display: inline;
+    li {
+      display: inline;
+    }
+  }
+}
